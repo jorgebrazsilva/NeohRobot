@@ -1,0 +1,7 @@
+{
+    "DbConnectionString":"Data Source=tcp:intelectahdb.database.windows.net,1433;Initial Catalog=neoh.prd;Persist Security Info=True;User ID=intelectah_adm;Password=@mv@pass@2017@",
+    "AzureConnectionString":"DefaultEndpointsProtocol=https;AccountName=neoh;AccountKey=7YsWIkodPxlRbYooDp3Yoci/pCZOc6C7nLtTCDxNvSVK/iJQ71oK6nF50wSCmZrNj9BkVRTxunh5jHlIbMcdvg==;EndpointSuffix=core.windows.net",
+    "BlobContainerName":"anexos",
+    "Environment":"prd",
+    "PathDirectory": "C:\\AnexosNeoh\\{0}"
+}
